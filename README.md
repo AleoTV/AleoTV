@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AleoTV
+- 👋 Hi, I’m @Aleo
 - 👀 I’m interested in FiveM Coding
 - 🌱 I’m currently learning full php
 - 💞️ I’m looking to collaborate on FiveM Server
